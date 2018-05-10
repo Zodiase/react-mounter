@@ -1,6 +1,6 @@
 {
   "name": "@xch/react-mounter",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "React Mounter lets you mount React components to DOM easily.",
   "repository": {
     "type": "git",
